@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a81e5028-945a-4278-8d11-3fce2a4b36bf" name="Changes" comment="push de prueba">
+    <list default="true" id="a81e5028-945a-4278-8d11-3fce2a4b36bf" name="Changes" comment="Arreglo url prueba uno">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.FacturaApplication.executor": "Run",
@@ -81,7 +86,7 @@
       <workItem from="1702755630742" duration="120000" />
       <workItem from="1702755972486" duration="7000" />
       <workItem from="1702904128342" duration="492000" />
-      <workItem from="1702904693868" duration="927000" />
+      <workItem from="1702904693868" duration="1124000" />
     </task>
     <task id="LOCAL-00001" summary="push de prueba">
       <option name="closed" value="true" />
@@ -91,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702905293641</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Arreglo url prueba uno">
+      <option name="closed" value="true" />
+      <created>1702905643250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702905643250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push de prueba" />
-    <option name="LAST_COMMIT_MESSAGE" value="push de prueba" />
+    <MESSAGE value="Arreglo url prueba uno" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arreglo url prueba uno" />
   </component>
 </project>

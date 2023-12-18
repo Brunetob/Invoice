@@ -1,7 +1,7 @@
 server:
-  port: 8082
-  error:
-    include-message: always
+  port: 8081
+error:
+include-message: always
 #Configuracion de spring
 spring:
   #Configuracion de migracion
